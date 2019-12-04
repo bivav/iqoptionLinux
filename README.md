@@ -1,15 +1,17 @@
 ### Prerequisites:
 1. Install wine stable:
+
 ```sudo apt-get update```
+
 ```sudo apt install wine-stable```
+
 ```sudo apt-get install --install-recommends winehq-stable```
+
 2. Make Wine Default for launching **.exe** files.
 
 
 ### Installing IQOption.exe in Linux
-1. Download msitools-0.100 or later
-[msitools-0.100 download](http://ftp.gnome.org/pub/GNOME/sources/msitools/0.100/msitools-0.100.tar.xz)
-
+1. Download msitools-0.100 or later - [msitools-0.100 download](http://ftp.gnome.org/pub/GNOME/sources/msitools/0.100/msitools-0.100.tar.xz)
 2. Download **IQOption MSI** file from IQOption website.
 3. Extract the file and cd to the extracted directory
 4. Run following commands inside the directory one by one.
