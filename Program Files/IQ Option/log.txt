@@ -1,0 +1,26 @@
+[2019-12-04 16:40:57.115] [IQ Option] [error] Update: Z:\home\bivav\Desktop\IQ Option\Program Files\IQ Option\IQ Option.exe, version 1623.2.2473.release
+[2019-12-04 16:40:58.505] [IQ Option] [error] Can't open file 'C:\users\bivav\Temp\\IQ Option\thumbnailscache.json': Sharing violation.
+
+[2019-12-04 16:40:58.505] [IQ Option] [error] Unable to save file: 'C:\users\bivav\Temp\\IQ Option\thumbnailscache.json': File not found.
+
+[2019-12-04 16:40:58.513] [IQ Option] [error] Can't open file 'C:\users\bivav\Temp\\IQ Option\thumbnailscache.json': Sharing violation.
+
+[2019-12-04 16:40:58.513] [IQ Option] [error] Unable to save file: 'C:\users\bivav\Temp\\IQ Option\thumbnailscache.json': File not found.
+
+[2019-12-04 16:41:03.996] [IQ Option] [error] WS front: ws09b
+[2019-12-04 16:41:06.025] [IQ Option] [error] Update: Z:\home\bivav\Desktop\IQ Option\Program Files\IQ Option\IQ Option.exe, version 1623.2.2473.release
+[2019-12-04 16:41:06.046] [IQ Option] [error] Update: Z:\home\bivav\Desktop\IQ Option\Program Files\IQ Option\IQ Option.exe, version 1623.2.2473.release
+[2019-12-04 16:42:00.216] [IQ Option] [error] Request 'get-top-deals' (111) timed out after 2.00574 sec.
+[2019-12-04 16:42:02.273] [IQ Option] [error] Request 'get-top-deals' (111) timed out after 2.02386 sec.
+[2019-12-04 16:42:44.082] [IQ Option] [error] SET VAL nan / 1.04633
+[2019-12-04 16:42:53.804] [IQ Option] [error] priceToPercent (1.04762, 1.04698, 100) → -6.10431
+[2019-12-04 16:43:36.159] [IQ Option] [error] priceToPercent (1.04762, 1.04241, 100) → -49.6929
+[2019-12-04 16:43:57.592] [IQ Option] [error] WebSocket closing error code: 3
+[2019-12-04 16:48:37.648] [IQ Option] [error] Update: Z:\home\bivav\Desktop\IQ Option\Program Files\IQ Option\IQ Option.exe, version 1623.2.2473.release
+[2019-12-04 16:48:45.792] [IQ Option] [error] WS front: ws14b
+[2019-12-04 16:48:47.431] [IQ Option] [error] Update: Z:\home\bivav\Desktop\IQ Option\Program Files\IQ Option\IQ Option.exe, version 1623.2.2473.release
+[2019-12-04 16:48:47.455] [IQ Option] [error] Update: Z:\home\bivav\Desktop\IQ Option\Program Files\IQ Option\IQ Option.exe, version 1623.2.2473.release
+[2019-12-04 16:48:49.376] [IQ Option] [error] Request 'get-top-deals' (24) timed out after 2.01978 sec.
+[2019-12-04 16:48:51.477] [IQ Option] [error] Request 'get-top-deals' (24) timed out after 2.00685 sec.
+[2019-12-04 16:48:57.737] [IQ Option] [error] Error 3 occured on channel 'default'
+[2019-12-04 16:48:57.737] [IQ Option] [error] WebSocket closing error code: 3
