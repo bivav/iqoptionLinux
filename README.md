@@ -9,15 +9,15 @@
 	./configure
 	make
 	make install
-
-	Note: If you get library error while ./configure, install dev versions like:
-
+```
+Note: If you get library error while ./configure or make, try installing 'dev' versions for libraries like below:
+```
 	sudo apt install libgcab-dev
 	sudo apt install uuid-dev
 	sudo apt install libgsf-1-dev
 ```
 and so on..
 
-4. msiextract IQOption.msi
+4. Execute ```msiextract IQOption.msi```
 5. It will create "Program Files/IQOption" directory with all exe files.
 6. Enjoy!
