@@ -9,9 +9,9 @@
 	./configure
 	make
 	make install
-
-	Note: If you get library error while ./configure, install dev versions like:
-
+```
+Note: If you get library error while ./configure, install dev versions like:
+```
 	sudo apt install libgcab-dev
 	sudo apt install uuid-dev
 	sudo apt install libgsf-1-dev
